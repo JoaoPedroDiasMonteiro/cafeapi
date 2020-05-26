@@ -27,13 +27,13 @@ Você pode saber mais **[clicando aqui](https://www.upinside.com.br/fsphp)**.
 CafeApi is available via Composer:
 
 ```bash
-"JoaoPedroDiasMonteiro/cafeapi": "^1.0"
+"joaopedrodiasmonteiro/cafeapi": "^1.0"
 ```
 
 or run
 
 ```bash
-composer require JoaoPedroDiasMonteiro/cafeapi
+composer require joaopedrodiasmonteiro/cafeapi
 ```
 
 ## Documentation
