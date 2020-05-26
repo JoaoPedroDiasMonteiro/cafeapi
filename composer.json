@@ -1,0 +1,32 @@
+{
+  "name": "JoaoPedroDiasMonteiro/cafeapi",
+  "description": "Biblioteca API para integração com o webservice do SaaS FSPHP",
+  "keywords": [
+    "FSPHP",
+    "UpInside",
+    "Robson V. Leite",
+    "João Pedro Dias",
+    "SaaS",
+    "PHP",
+    "Full Stack"
+  ],
+  "homepage": "http://www.upinside.com.br",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "João Pedro Dias",
+      "email": "joaopedro453@hotmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^7.1",
+    "ext-json": "*",
+    "ext-curl": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "JoaoPedroDiasMonteiro\\CafeApi\\": "src"
+    }
+  }
+}
